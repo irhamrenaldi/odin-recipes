@@ -1,0 +1,30 @@
+/* style.css */
+
+/* font-family: 'Amarante', cursive; */
+
+h1 {
+    font-family: 'Amarante', 'cursive';
+    background-color: rgb(236, 161, 74);
+    font-size: 36px;
+  
+}
+
+h1.title {
+    text-align: center;
+}
+
+img {
+    height: 360px;
+    width: auto;
+}
+
+h4,
+p,
+li {
+    font-family: 'Helvetica', sans-serif;
+}
+
+p,
+li {
+    font-size: 14px;
+}
